@@ -10,7 +10,7 @@
           "id": "low-1-belmont",
           "model": "Belmont",
           "price": 199.99,
-          "salePrice": 190.00,
+          "salePrice": 190.0,
           "saveAmount": 9.99,
           "rating": 4.9,
           "reviews": 281,
@@ -22,15 +22,17 @@
               "slug": "belmont",
               "images": {
                 "card": {
-                  "default": "images/low-1/belmont/1.jpg",
-                  "hover": "images/low-1/belmont/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_101_lowessential1_c22be392-48bf-45e6-9b64-4f09db2d9303.jpg",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_102_Low_Essential1.jpg"
                 },
                 "gallery": [
-                  "images/low-1/belmont/1.jpg",
-                  "images/low-1/belmont/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_101_lowessential1_c22be392-48bf-45e6-9b64-4f09db2d9303.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_102_Low_Essential1.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_15_Belmont.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_63_belmnt2_c4221e7d-ed51-4fb8-8237-0e12ef61dfb5.jpg"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             }
           ],
           "badges": ["Sale"],
@@ -43,7 +45,7 @@
           "id": "low-1-white",
           "model": "White",
           "price": 179.99,
-          "salePrice": 171.00,
+          "salePrice": 171.0,
           "saveAmount": 8.99,
           "rating": 4.9,
           "reviews": 1695,
@@ -55,15 +57,16 @@
               "slug": "white",
               "images": {
                 "card": {
-                  "default": "images/low-1/white/1.jpg",
-                  "hover": "images/low-1/white/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-white/Low1White_1.webp",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-white/Low1White_2.webp"
                 },
                 "gallery": [
-                  "images/low-1/white/1.jpg",
-                  "images/low-1/white/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-white/Low1White_1.webp",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-white/Low1White_2.webp",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-white/Low1-White-Bottom.webp"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             }
           ],
           "badges": ["Sale"],
@@ -87,15 +90,16 @@
               "slug": "ghost",
               "images": {
                 "card": {
-                  "default": "images/low-1/ghost/1.jpg",
-                  "hover": "images/low-1/ghost/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/ghost/Ghost.jpg",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/ghost/ghost2.jpg"
                 },
                 "gallery": [
-                  "images/low-1/ghost/1.jpg",
-                  "images/low-1/ghost/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/ghost/Ghost.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/ghost/ghost2.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/ghost/ghost3.jpg"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             }
           ],
           "badges": ["Sale"],
@@ -108,7 +112,7 @@
           "id": "low-1-marshmallow",
           "model": "Marshmallow",
           "price": 199.99,
-          "salePrice": 190.00,
+          "salePrice": 190.0,
           "saveAmount": 9.99,
           "rating": 5.0,
           "reviews": 63,
@@ -120,15 +124,17 @@
               "slug": "marshmallow",
               "images": {
                 "card": {
-                  "default": "images/low-1/marshmallow/1.jpg",
-                  "hover": "images/low-1/marshmallow/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/Low_1_Marshmall/lowmarshmallow1_52368894-d0a4-4ed0-868b-bc6393e987a1.webp",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/Low_1_Marshmall/Low_1_Marshmallow_3Q_22b1c874-b2ee-43e8-a90e-55b511f55c5b.webp"
                 },
                 "gallery": [
-                  "images/low-1/marshmallow/1.jpg",
-                  "images/low-1/marshmallow/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/Low_1_Marshmall/lowmarshmallow1_52368894-d0a4-4ed0-868b-bc6393e987a1.webp",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/Low_1_Marshmall/Low_1_Marshmallow_3Q_22b1c874-b2ee-43e8-a90e-55b511f55c5b.webp",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/Low_1_Marshmall/Low1Marshmallow_OC-SN-LO-1229.3.webp",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/Low_1_Marshmall/Low1Marshmallow_OC-SN-LO-1229.2.webp"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             }
           ],
           "badges": ["Sale"],
@@ -141,7 +147,7 @@
           "id": "low-1-ocean",
           "model": "Ocean",
           "price": 179.99,
-          "salePrice": 171.00,
+          "salePrice": 171.0,
           "saveAmount": 8.99,
           "rating": 4.9,
           "reviews": 304,
@@ -153,15 +159,15 @@
               "slug": "ocean",
               "images": {
                 "card": {
-                  "default": "images/low-1/ocean/1.jpg",
-                  "hover": "images/low-1/ocean/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/ocean/Low_Top-White-Navy-Profile_KL.jpg",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/ocean/Low_Top-White-Navy-3Q_KL.jpg"
                 },
                 "gallery": [
-                  "images/low-1/ocean/1.jpg",
-                  "images/low-1/ocean/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/ocean/Low_Top-White-Navy-Profile_KL.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/ocean/Low_Top-White-Navy-3Q_KL.jpg"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             }
           ],
           "badges": ["Sale"],
@@ -174,7 +180,7 @@
           "id": "low-1-black-ghost",
           "model": "Black Ghost",
           "price": 224.99,
-          "salePrice": 202.50,
+          "salePrice": 202.5,
           "saveAmount": 22.49,
           "rating": 4.9,
           "reviews": 172,
@@ -186,15 +192,17 @@
               "slug": "black-ghost",
               "images": {
                 "card": {
-                  "default": "images/low-1/black-ghost/1.jpg",
-                  "hover": "images/low-1/black-ghost/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/black-ghost/low1blackghostimage1.webp",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/black-ghost/low1blackghostt2.webp"
                 },
                 "gallery": [
-                  "images/low-1/black-ghost/1.jpg",
-                  "images/low-1/black-ghost/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/black-ghost/low1blackghostimage1.webp",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/black-ghost/low1blackghostt2.webp",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/black-ghost/blackghoststyled.webp",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/black-ghost/blackghost1.webp"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             }
           ],
           "badges": ["Sale"],
@@ -213,7 +221,7 @@
           "id": "gat-white",
           "model": "GAT",
           "price": 199.99,
-          "salePrice": 180.00,
+          "salePrice": 180.0,
           "saveAmount": 19.99,
           "rating": 4.9,
           "reviews": 308,
@@ -225,45 +233,45 @@
               "slug": "white",
               "images": {
                 "card": {
-                  "default": "images/gat/white/1.jpg",
-                  "hover": "images/gat/white/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/white/gatttwhite1_0cf0e9e8-2e2b-49a6-8c14-c01e200ca02a.jpg",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/white/gatttwhite2_fb46d18c-0138-473a-8b90-5bfce18af696.jpg"
                 },
                 "gallery": [
-                  "images/gat/white/1.jpg",
-                  "images/gat/white/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/white/gatttwhite1_0cf0e9e8-2e2b-49a6-8c14-c01e200ca02a.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/white/gatttwhite2_fb46d18c-0138-473a-8b90-5bfce18af696.jpg"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             },
             {
               "name": "Black",
               "slug": "black",
               "images": {
                 "card": {
-                  "default": "images/gat/black/1.jpg",
-                  "hover": "images/gat/black/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/black/gatttblack1_e0dea71d-050a-41fd-a37f-43482141cac9.jpg",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/black/gatttblack2_88d364ce-f021-4559-a313-3bfa179372d6.jpg"
                 },
                 "gallery": [
-                  "images/gat/black/1.jpg",
-                  "images/gat/black/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/black/gatttblack1_e0dea71d-050a-41fd-a37f-43482141cac9.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/black/gatttblack2_88d364ce-f021-4559-a313-3bfa179372d6.jpg"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             },
             {
               "name": "Navy",
               "slug": "navy",
               "images": {
                 "card": {
-                  "default": "images/gat/navy/1.jpg",
-                  "hover": "images/gat/navy/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/navy/gatnavyimage1.jpg",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/navy/gatttnavy2_ffed2b18-dcc5-4dea-accd-be1721d09df8.jpg"
                 },
                 "gallery": [
-                  "images/gat/navy/1.jpg",
-                  "images/gat/navy/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/navy/gatnavyimage1.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/gat/navy/gatttnavy2_ffed2b18-dcc5-4dea-accd-be1721d09df8.jpg"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             }
           ],
           "badges": ["Sale"],
@@ -282,7 +290,7 @@
           "id": "proof-1-black",
           "model": "Proof 1",
           "price": 179.99,
-          "salePrice": 162.00,
+          "salePrice": 162.0,
           "saveAmount": 17.99,
           "rating": null,
           "reviews": null,
@@ -294,15 +302,20 @@
               "slug": "black",
               "images": {
                 "card": {
-                  "default": "images/proof-1/black/1.jpg",
-                  "hover": "images/proof-1/black/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/black/proofblack1.jpg",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/black/proofblack3.jpg"
                 },
                 "gallery": [
-                  "images/proof-1/black/1.jpg",
-                  "images/proof-1/black/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/black/proofblack1.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/black/proofblack3.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/black/proofblack2.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/black/proofblack4.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/black/proofblack5.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/black/outsoleblack1.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/black/proof1groupp%20(2).jpg"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             }
           ],
           "badges": ["Sale", "FSA/HSA Eligible"],
@@ -315,7 +328,7 @@
           "id": "proof-1-chalk",
           "model": "Proof 1",
           "price": 179.99,
-          "salePrice": 126.00,
+          "salePrice": 126.0,
           "saveAmount": 53.99,
           "rating": 5.0,
           "reviews": 2,
@@ -327,15 +340,20 @@
               "slug": "chalk",
               "images": {
                 "card": {
-                  "default": "images/proof-1/chalk/1.jpg",
-                  "hover": "images/proof-1/chalk/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/chalk/proofchalk1.jpg",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/chalk/proofchalk3.jpg"
                 },
                 "gallery": [
-                  "images/proof-1/chalk/1.jpg",
-                  "images/proof-1/chalk/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/chalk/proofchalk1.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/chalk/proofchalk3.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/chalk/proofchalk2.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/chalk/proofchalk4.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/chalk/proofchalk5.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/chalk/outsolewhite1%20(1).jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/chalk/proof1groupp%20(1).jpg"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             }
           ],
           "badges": ["Sale", "FSA/HSA Eligible"],
@@ -347,7 +365,7 @@
           "id": "proof-1-belmont",
           "model": "Proof 1",
           "price": 179.99,
-          "salePrice": 126.00,
+          "salePrice": 126.0,
           "saveAmount": 53.99,
           "rating": 5.0,
           "reviews": 3,
@@ -359,15 +377,20 @@
               "slug": "belmont",
               "images": {
                 "card": {
-                  "default": "images/proof-1/belmont/1.jpg",
-                  "hover": "images/proof-1/belmont/2.jpg"
+                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/belmont/proofbelmont1.jpg",
+                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/belmont/proofbelmont3.jpg"
                 },
                 "gallery": [
-                  "images/proof-1/belmont/1.jpg",
-                  "images/proof-1/belmont/2.jpg"
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/belmont/proofbelmont1.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/belmont/proofbelmont3.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/belmont/proofbelmont2.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/belmont/proofbelmont4.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/belmont/proofbelmont5.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/belmont/outsolewhite1.jpg",
+                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/Proof1/belmont/proof1groupp.jpg"
                 ]
               },
-              "sizes": [{"size": 6, "available": true}]
+              "sizes": [{ "size": 6, "available": true }]
             }
           ],
           "badges": ["Sale", "FSA/HSA Eligible"],
