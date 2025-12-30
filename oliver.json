@@ -1,0 +1,381 @@
+{
+  "brand": "Oliver Cabell",
+  "currency": "USD",
+  "categories": [
+    {
+      "id": "low-1",
+      "title": "Men's Low 1",
+      "products": [
+        {
+          "id": "low-1-belmont",
+          "model": "Belmont",
+          "price": 199.99,
+          "salePrice": 190.00,
+          "saveAmount": 9.99,
+          "rating": 4.9,
+          "reviews": 281,
+          "shortDescription": "Low 1 Belmont features white Italian distressed leather, white cotton laces, and a durable cushioned sole.",
+          "description": "The Low 1 Belmont balances timeless craftsmanship with modern comfort. Premium Italian leather create a bold yet refined look. With soft cotton laces and a durable rubber-EVA sole, it offers effortless style and all-day ease.",
+          "colors": [
+            {
+              "name": "Belmont",
+              "slug": "belmont",
+              "images": {
+                "card": {
+                  "default": "images/low-1/belmont/1.jpg",
+                  "hover": "images/low-1/belmont/2.jpg"
+                },
+                "gallery": [
+                  "images/low-1/belmont/1.jpg",
+                  "images/low-1/belmont/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            }
+          ],
+          "badges": ["Sale"],
+          "extra": {
+            "fit": ["Standard", "Orthopedic", "Wide (EE)"],
+            "shipping": "Sizes 7, 9-14 ship in March. Size 8 ships in April."
+          }
+        },
+        {
+          "id": "low-1-white",
+          "model": "White",
+          "price": 179.99,
+          "salePrice": 171.00,
+          "saveAmount": 8.99,
+          "rating": 4.9,
+          "reviews": 1695,
+          "shortDescription": "Low 1 | White features Italian leather, soft cotton laces, and a durable cushioned sole.",
+          "description": "The Low 1 | White balances timeless craftsmanship with modern comfort. Premium Italian leather create a bold yet refined look. With soft cotton laces and a durable rubber-EVA sole, it offers effortless style and all-day ease.",
+          "colors": [
+            {
+              "name": "White",
+              "slug": "white",
+              "images": {
+                "card": {
+                  "default": "images/low-1/white/1.jpg",
+                  "hover": "images/low-1/white/2.jpg"
+                },
+                "gallery": [
+                  "images/low-1/white/1.jpg",
+                  "images/low-1/white/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            }
+          ],
+          "badges": ["Sale"],
+          "extra": {
+            "fit": ["Standard", "Orthopedic", "Wide (EE)"]
+          }
+        },
+        {
+          "id": "low-1-ghost",
+          "model": "Ghost",
+          "price": 224.99,
+          "salePrice": 213.75,
+          "saveAmount": 11.24,
+          "rating": null,
+          "reviews": null,
+          "shortDescription": "Low 1 Ghost features Italian distressed leather, soft cotton laces, and a durable cushioned sole.",
+          "description": "The Low 1 Ghost balances timeless craftsmanship with modern comfort. Premium Italian leather create a bold yet refined look. With soft cotton laces and a durable rubber-EVA sole, it offers effortless style and all-day ease.",
+          "colors": [
+            {
+              "name": "Ghost",
+              "slug": "ghost",
+              "images": {
+                "card": {
+                  "default": "images/low-1/ghost/1.jpg",
+                  "hover": "images/low-1/ghost/2.jpg"
+                },
+                "gallery": [
+                  "images/low-1/ghost/1.jpg",
+                  "images/low-1/ghost/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            }
+          ],
+          "badges": ["Sale"],
+          "extra": {
+            "fit": ["Standard", "Orthopedic"],
+            "shipping": "Sizes 7-10, and 15 ship in Feb. Sizes 11-14 ship in April."
+          }
+        },
+        {
+          "id": "low-1-marshmallow",
+          "model": "Marshmallow",
+          "price": 199.99,
+          "salePrice": 190.00,
+          "saveAmount": 9.99,
+          "rating": 5.0,
+          "reviews": 63,
+          "shortDescription": "Low 1 Marshmallow features Italian distressed leather, nubuck, soft cotton laces, and a durable cushioned sole.",
+          "description": "The Low 1 Marshmallow balances timeless craftsmanship with modern comfort. Premium Italian leather and nubuck create a bold yet refined look. With soft cotton laces and a durable rubber-EVA sole, it offers effortless style and all-day ease.",
+          "colors": [
+            {
+              "name": "Marshmallow",
+              "slug": "marshmallow",
+              "images": {
+                "card": {
+                  "default": "images/low-1/marshmallow/1.jpg",
+                  "hover": "images/low-1/marshmallow/2.jpg"
+                },
+                "gallery": [
+                  "images/low-1/marshmallow/1.jpg",
+                  "images/low-1/marshmallow/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            }
+          ],
+          "badges": ["Sale"],
+          "extra": {
+            "fit": ["Standard", "Orthopedic"],
+            "shipping": "Sizes 8, 9, and 11 ship in Feb. Sizes 7, 10, and 12 ship in March. Size 6 ships in April."
+          }
+        },
+        {
+          "id": "low-1-ocean",
+          "model": "Ocean",
+          "price": 179.99,
+          "salePrice": 171.00,
+          "saveAmount": 8.99,
+          "rating": 4.9,
+          "reviews": 304,
+          "shortDescription": "Low 1 Ocean features white Italian leather, soft cotton laces, and a durable cushioned sole.",
+          "description": "The Low 1 Ocean balances timeless craftsmanship with modern comfort. Premium Italian leather create a bold yet refined look. With soft cotton laces and a durable rubber-EVA sole, it offers effortless style and all-day ease.",
+          "colors": [
+            {
+              "name": "Ocean",
+              "slug": "ocean",
+              "images": {
+                "card": {
+                  "default": "images/low-1/ocean/1.jpg",
+                  "hover": "images/low-1/ocean/2.jpg"
+                },
+                "gallery": [
+                  "images/low-1/ocean/1.jpg",
+                  "images/low-1/ocean/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            }
+          ],
+          "badges": ["Sale"],
+          "extra": {
+            "fit": ["Standard", "Orthopedic", "Wide (EE)"],
+            "shipping": "Sizes 12 and 13 ship in March. Size 7 ships in April."
+          }
+        },
+        {
+          "id": "low-1-black-ghost",
+          "model": "Black Ghost",
+          "price": 224.99,
+          "salePrice": 202.50,
+          "saveAmount": 22.49,
+          "rating": 4.9,
+          "reviews": 172,
+          "shortDescription": "Low 1 Black Ghost features Italian distressed leather, black suede, soft cotton laces, and a durable cushioned sole.",
+          "description": "The Low 1 Black Ghost balances timeless craftsmanship with modern comfort. Premium Italian leather and suede create a bold yet refined look. With soft cotton laces and a durable rubber-EVA sole, it offers effortless style and all-day ease.",
+          "colors": [
+            {
+              "name": "Black Ghost",
+              "slug": "black-ghost",
+              "images": {
+                "card": {
+                  "default": "images/low-1/black-ghost/1.jpg",
+                  "hover": "images/low-1/black-ghost/2.jpg"
+                },
+                "gallery": [
+                  "images/low-1/black-ghost/1.jpg",
+                  "images/low-1/black-ghost/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            }
+          ],
+          "badges": ["Sale"],
+          "extra": {
+            "fit": ["Standard", "Orthopedic"],
+            "shipping": "Sizes 7-10, 12-14 ship in March."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gat",
+      "title": "GAT",
+      "products": [
+        {
+          "id": "gat-white",
+          "model": "GAT",
+          "price": 199.99,
+          "salePrice": 180.00,
+          "saveAmount": 19.99,
+          "rating": 4.9,
+          "reviews": 308,
+          "shortDescription": "The GAT, a retro German trainer, features matte Italian leather, cotton laces, spare cotton laces, and custom outsoles.",
+          "description": "The GAT reimagines the classic German athletic trainer with modern craftsmanship and all-day comfort. Handcrafted from matte Italian leather with cotton laces and an organic textile lining, it offers a luxurious feel. A lightweight blown EVA outsole delivers superior cushioning and support, making it perfect for everyday wear.",
+          "colors": [
+            {
+              "name": "White",
+              "slug": "white",
+              "images": {
+                "card": {
+                  "default": "images/gat/white/1.jpg",
+                  "hover": "images/gat/white/2.jpg"
+                },
+                "gallery": [
+                  "images/gat/white/1.jpg",
+                  "images/gat/white/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            },
+            {
+              "name": "Black",
+              "slug": "black",
+              "images": {
+                "card": {
+                  "default": "images/gat/black/1.jpg",
+                  "hover": "images/gat/black/2.jpg"
+                },
+                "gallery": [
+                  "images/gat/black/1.jpg",
+                  "images/gat/black/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            },
+            {
+              "name": "Navy",
+              "slug": "navy",
+              "images": {
+                "card": {
+                  "default": "images/gat/navy/1.jpg",
+                  "hover": "images/gat/navy/2.jpg"
+                },
+                "gallery": [
+                  "images/gat/navy/1.jpg",
+                  "images/gat/navy/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            }
+          ],
+          "badges": ["Sale"],
+          "extra": {
+            "fit": ["Standard"],
+            "shipping": "Sizes 8 and 11 ship in Feb. Sizes 9, 10, and 12 ship in April."
+          }
+        }
+      ]
+    },
+    {
+      "id": "proof-1",
+      "title": "Men's Proof 1",
+      "products": [
+        {
+          "id": "proof-1-black",
+          "model": "Proof 1",
+          "price": 179.99,
+          "salePrice": 162.00,
+          "saveAmount": 17.99,
+          "rating": null,
+          "reviews": null,
+          "shortDescription": "100% waterproof and built for relief: c—proof™ tech pairs with our c—sole™ insole for pain-free, all-day comfort.",
+          "description": "Meet the 100% waterproof knit sneaker built for real life: c—proof™ keeps you dry with a fully seam-sealed membrane, while our c—sole™ orthotic cushioning delivers relief from heel pain, plantar fasciitis, and arch discomfort.",
+          "colors": [
+            {
+              "name": "Black",
+              "slug": "black",
+              "images": {
+                "card": {
+                  "default": "images/proof-1/black/1.jpg",
+                  "hover": "images/proof-1/black/2.jpg"
+                },
+                "gallery": [
+                  "images/proof-1/black/1.jpg",
+                  "images/proof-1/black/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            }
+          ],
+          "badges": ["Sale", "FSA/HSA Eligible"],
+          "extra": {
+            "fit": ["Wide"],
+            "shipping": "Size 6 ships in Feb."
+          }
+        },
+        {
+          "id": "proof-1-chalk",
+          "model": "Proof 1",
+          "price": 179.99,
+          "salePrice": 126.00,
+          "saveAmount": 53.99,
+          "rating": 5.0,
+          "reviews": 2,
+          "shortDescription": "100% waterproof and built for relief: c—proof™ tech pairs with our c—sole™ insole for pain-free, all-day comfort.",
+          "description": "Meet the 100% waterproof knit sneaker built for real life: c—proof™ keeps you dry with a fully seam-sealed membrane, while our c—sole™ orthotic cushioning delivers relief from heel pain, plantar fasciitis, and arch discomfort.",
+          "colors": [
+            {
+              "name": "Chalk",
+              "slug": "chalk",
+              "images": {
+                "card": {
+                  "default": "images/proof-1/chalk/1.jpg",
+                  "hover": "images/proof-1/chalk/2.jpg"
+                },
+                "gallery": [
+                  "images/proof-1/chalk/1.jpg",
+                  "images/proof-1/chalk/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            }
+          ],
+          "badges": ["Sale", "FSA/HSA Eligible"],
+          "extra": {
+            "fit": ["Wide"]
+          }
+        },
+        {
+          "id": "proof-1-belmont",
+          "model": "Proof 1",
+          "price": 179.99,
+          "salePrice": 126.00,
+          "saveAmount": 53.99,
+          "rating": 5.0,
+          "reviews": 3,
+          "shortDescription": "100% waterproof and built for relief: c—proof™ tech pairs with our c—sole™ insole for pain-free, all-day comfort.",
+          "description": "Meet the 100% waterproof knit sneaker built for real life: c—proof™ keeps you dry with a fully seam-sealed membrane, while our c—sole™ orthotic cushioning delivers relief from heel pain, plantar fasciitis, and arch discomfort.",
+          "colors": [
+            {
+              "name": "Belmont",
+              "slug": "belmont",
+              "images": {
+                "card": {
+                  "default": "images/proof-1/belmont/1.jpg",
+                  "hover": "images/proof-1/belmont/2.jpg"
+                },
+                "gallery": [
+                  "images/proof-1/belmont/1.jpg",
+                  "images/proof-1/belmont/2.jpg"
+                ]
+              },
+              "sizes": [{"size": 6, "available": true}]
+            }
+          ],
+          "badges": ["Sale", "FSA/HSA Eligible"],
+          "extra": {
+            "fit": ["Wide"]
+          }
+        }
+      ]
+    }
+  ]
+}
