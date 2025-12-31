@@ -7,41 +7,6 @@
       "title": "Men's Low 1",
       "products": [
         {
-          "id": "low-1-belmont",
-          "model": "Belmont",
-          "price": 199.99,
-          "salePrice": 190.0,
-          "saveAmount": 9.99,
-          "rating": 4.9,
-          "reviews": 281,
-          "shortDescription": "Low 1 Belmont features white Italian distressed leather, white cotton laces, and a durable cushioned sole.",
-          "description": "The Low 1 Belmont balances timeless craftsmanship with modern comfort. Premium Italian leather create a bold yet refined look. With soft cotton laces and a durable rubber-EVA sole, it offers effortless style and all-day ease.",
-          "colors": [
-            {
-              "name": "Belmont",
-              "slug": "belmont",
-              "images": {
-                "card": {
-                  "default": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_101_lowessential1_c22be392-48bf-45e6-9b64-4f09db2d9303.jpg",
-                  "hover": "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_102_Low_Essential1.jpg"
-                },
-                "gallery": [
-                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_101_lowessential1_c22be392-48bf-45e6-9b64-4f09db2d9303.jpg",
-                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_102_Low_Essential1.jpg",
-                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_15_Belmont.jpg",
-                  "https://raw.githubusercontent.com/parsa-farshah/olivercabell/refs/heads/main/images/low-1/low-1-belmont/imgi_63_belmnt2_c4221e7d-ed51-4fb8-8237-0e12ef61dfb5.jpg"
-                ]
-              },
-              "sizes": [{ "size": 6, "available": true }]
-            }
-          ],
-          "badges": ["Sale"],
-          "extra": {
-            "fit": ["Standard", "Orthopedic", "Wide (EE)"],
-            "shipping": "Sizes 7, 9-14 ship in March. Size 8 ships in April."
-          }
-        },
-        {
           "id": "low-1-white",
           "model": "White",
           "price": 179.99,
